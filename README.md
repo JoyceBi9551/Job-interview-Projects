@@ -1,4 +1,9 @@
-# Job-interview-Projects
+# Self - Introduction
+
+
+
+
+Job-interview-Projects
 
 Turning Data into Alpha – Quant Research Portfolio
 
